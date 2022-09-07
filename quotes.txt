@@ -1,4 +1,4 @@
-quotes = ["When price dropped, they dont want to praise the government. But when it rises, they blame the government… This is not fair as it is due to weather conditions. – Najib Razak",
+"When price dropped, they dont want to praise the government. But when it rises, they blame the government… This is not fair as it is due to weather conditions. – Najib Razak",
 
 "Malaysia tidak pernah dijajah, sebaliknya, hanya dinaungi atau dilindungi oleh British. – Zainal Kling",
 
@@ -119,5 +119,3 @@ quotes = ["When price dropped, they dont want to praise the government. But when
 "Tak tahu - Najib Razak, sebanyak 46 kali di mahkamah",
 
 "Cash is King, King is Rakyat - Najib Razak"
-
-]
