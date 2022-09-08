@@ -1,5 +1,4 @@
-'[
-"When price dropped, they dont want to praise the government. But when it rises, they blame the government… This is not fair as it is due to weather conditions. – Najib Razak",
+["When price dropped, they dont want to praise the government. But when it rises, they blame the government… This is not fair as it is due to weather conditions. – Najib Razak",
 
 "Malaysia tidak pernah dijajah, sebaliknya, hanya dinaungi atau dilindungi oleh British. – Zainal Kling",
 
@@ -119,5 +118,10 @@
 
 "Tak tahu - Najib Razak, sebanyak 46 kali di mahkamah",
 
-"Cash is King, King is Rakyat - Najib Razak"
-]'
+"Cash is King, King is Rakyat - Najib Razak",
+          
+"YB (seorang) peguam. Mencuri tidak salah, tau? Bila kena tangkap, itu baru salah - Noh Omar",
+ 
+"Selalu teringat Bossku kat penjara sana makan apa? Couldn't even make myself order Starbucks today sbb Yana tau Bossku mesti rindu his caramel macchiato.  - Yana Najib",
+ 
+"Kamu(aku) pengkhianat, Kelapa bapak kamu! - Azmin Ali"]
